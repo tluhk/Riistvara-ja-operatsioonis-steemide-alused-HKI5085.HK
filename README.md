@@ -1,0 +1,2 @@
+# Riistvara_ja_operatsioonisysteemide_alused
+Arvutite riistvara ja operatsioonisüsteemide alused
