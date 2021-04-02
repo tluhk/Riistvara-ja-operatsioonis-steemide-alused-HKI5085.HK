@@ -18,7 +18,7 @@ Martti Raavel
 
 ## Kursuse ülesehitus
 
-Kursus on üles ehitatud nii, et koosneb kuuest loengust, millest viies loengus toimub õppetöö ja kuuendas eksam. Iga loengu pikkus on kokku 180 minutit + poole peal 15 minutit pausi. Loengutes võetakse ükshaaval läbi loengu teemad ja enamuse teemade kohta toimub ka väike 'käed küljes' praktikum, mille käigus saavad õpilased tutvuda arvutite riistvara komponentidega, vaadata, mis on nende komponentide sees ja vahetada omavahel kogemusi. Praktikumide käigus täidavad õpilased erinevate arvutite komponentide kohta töölehti ja jäädvustavad komponentide lammutamise protsessi. Olulise osa loengutest ja praktikumidest moodustavadki õpilaste ja õpetaja kogemuste vahetamine ja arutelud.
+Kursus on üles ehitatud nii, et koosneb kuuest loengust, millest viies loengus toimub õppetöö ja kuuendas eksam. Iga loengu pikkus on kokku 180 minutit + poole peal 15 minutit pausi. Loengutes võetakse ükshaaval läbi loengu teemad ja enamuse teemade kohta toimub ka 'käed küljes' praktikum, mille käigus saavad õpilased tutvuda arvutite riistvara komponentidega, vaadata, mis on nende komponentide sees ja vahetada omavahel kogemusi. Praktikumide käigus täidavad õpilased erinevate arvutite komponentide kohta töölehti ja jäädvustavad komponentide lammutamise protsessi. Praktikumide eesmärk on kinnistada loengus saadud teadmisi läbi praktilise kogemuse. Olulise osa loengutest ja praktikumidest moodustavad õpilaste ja õpetaja kogemuste vahetamine ja arutelud.
 
 Iga loengu lõpus täidavad õpilased tagasisideküsitluse loengu kohta - mis neid kõige rohkem kõnetas ja mis jäi loengus arusaamatuks. Tagasiside alusel saab järgmise loengu alguses segaseks jäänud teemad/punktid üle selgitada. Samuti toimub iga loengu alguses lühike enesekontrolli test eelmiste loengute teemade kohta.
 
@@ -82,8 +82,8 @@ Peale loengut oskab õpilane:
 * Graafikakaardid
 * Muud lisakaardid
 * Lisaseamed
- * Osunduseadmed
- * Klaviatuurid
+  * Osunduseadmed
+  * Klaviatuurid
 * Praktikum
   * Arvuti lammutamine ja kokkupanek
 
@@ -102,10 +102,10 @@ Peale loengut oskab õpilane:
 * Koduste tööde esitlused
 * Test eelmiste loengute teemade kohta
 * Lisaseadmed
- * Monitor
-  * Praktikum
- * Printer
- * Skänner
+  * Monitor
+    * Praktikum
+  * Printer
+  * Skänner
 
 #### Neljanda loengu õpiväljundid
 Peale loengut oskab õpilane:
@@ -117,3 +117,19 @@ Peale loengut oskab õpilane:
 * Selgitada printerite tööpõhimõtet
 * Selgitada skännerite tööpõhimõtet
 * Nimetada skännerite olulisemaid parameetreid
+
+### Viienda loengu teemad:
+* Koduste tööde esitlused
+* Test eelmiste loengute teemade kohta
+* Operatsioonisüsteemid
+* Virtuaalmasinad
+* Hüperviisorid
+
+#### Viienda loengu õpiväljundid
+Peale loengut oskab õpilane:
+* Selgitada oma sõnadega operatsioonisüsteemi olemust
+* Kirjeldada operatsioonisüsteemi põhiülesandeid
+* Nimetada vähemalt kolme erinevat operatsioonisüsteemi
+* Selgitada oma sõnadega virtuaalmasina olemust
+* Kirjeldada virtuaalmasina eeliseid füüsilise arvuti ees
+* Selgitada mis on hüperviisor
