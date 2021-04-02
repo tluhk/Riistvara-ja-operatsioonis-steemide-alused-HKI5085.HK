@@ -36,11 +36,11 @@ Kodutöödena uurivad õpilased rühmatööna loengud räägitud teemade kohta l
 * Arvutites kasutatavad mahuühikud
 * Mis on arvuti ja millest see koosneb?
 * Protsessorid
-  * Praktikum
+  * Praktikum - erinevate protsessoritega tutvumine, töölehe täitmine.
 * Emaplaadid
-  * Praktikum
+  * Praktikum - erinevtae emaplaatidega tutvumine, töölehe täitmine.
 * Mälud
-  * Praktikum
+  * Praktikum - erinevate mäludega tutvumine, töölehe täitmine.
 
 #### Esimese loengu õpiväljundid
 Peale loengut oskab õpilane:
@@ -59,11 +59,11 @@ Peale loengut oskab õpilane:
 * Test eelmise loengu teemade kohta
 * Andmekandjad
   * Sisesed andmekandjad
-    * Praktikum
+    * Praktikum - erinevate sisemiste andmekandjatega tutvumine. Kõvaketta/välkmäluketta töölehe täitmine. Mis on kõvaketta/välkmäluketta sees?
   * Välised andmekandjad
-    * Praktikum
+    * Praktikum - erinevate väliste andmekandjatega tutvumine. Mis on CD/DVD-seadme sees?
 * Toiteplokid
-  * Praktikum
+  * Praktikum - erinevate toiteplokkidega tutvumine, töölehe täitmine
 
 #### Teise loengu õpiväljundid
 Peale loengut oskab õpilane:
@@ -84,8 +84,7 @@ Peale loengut oskab õpilane:
 * Lisaseamed
   * Osunduseadmed
   * Klaviatuurid
-* Praktikum
-  * Arvuti lammutamine ja kokkupanek
+* Praktikum - arvuti lammutamine ja kokkupanek
 
 #### Kolmanda loengu õpiväljundid
 Peale loengut oskab õpilane:
@@ -103,7 +102,7 @@ Peale loengut oskab õpilane:
 * Test eelmiste loengute teemade kohta
 * Lisaseadmed
   * Monitor
-    * Praktikum
+    * Praktikum - mis on sülearvuti LCD/LED-paneeli sees?
   * Printer
   * Skänner
 
@@ -124,6 +123,7 @@ Peale loengut oskab õpilane:
 * Operatsioonisüsteemid
 * Virtuaalmasinad
 * Hüperviisorid
+  * Praktikum - erinevate operatsioonisüsttemide paigaldus arvutisse või virtuaalmasinasse
 
 #### Viienda loengu õpiväljundid
 Peale loengut oskab õpilane:
@@ -133,3 +133,7 @@ Peale loengut oskab õpilane:
 * Selgitada oma sõnadega virtuaalmasina olemust
 * Kirjeldada virtuaalmasina eeliseid füüsilise arvuti ees
 * Selgitada mis on hüperviisor
+
+### Kuuenda loengu teemad:
+* Koduste tööde esitlused
+* Eksam
