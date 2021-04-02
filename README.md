@@ -82,13 +82,13 @@ Peale loengut oskab õpilane:
 * Graafikakaardid
 * Muud lisakaardid
 * Lisaseamed
-* Osunduseadmed
-* Klaviatuurid
+ * Osunduseadmed
+ * Klaviatuurid
 * Praktikum
   * Arvuti lammutamine ja kokkupanek
 
 #### Kolmanda loengu õpiväljundid
-* Peale loengut oskab õpilane:
+Peale loengut oskab õpilane:
 * Kirjeldada graafikakaardi otstarvet
 * Loetleda erinevaid arvutites kasutatavaid lisakaarte
 * Selgitada, mis on osundusseade
@@ -97,3 +97,23 @@ Peale loengut oskab õpilane:
 * Tunda ära arvuti komponentide hulgast graafikakaardi, võrgukaardi ja helikaardi
 * Võtta arvuti komponentideks lahti
 * Panna töötavatest komponentidest kokku töötava arvuti
+
+### Neljanda loengu teemad:
+* Koduste tööde esitlused
+* Test eelmiste loengute teemade kohta
+* Lisaseadmed
+ * Monitor
+  * Praktikum
+ * Printer
+ * Skänner
+
+#### Neljanda loengu õpiväljundid
+Peale loengut oskab õpilane:
+* Nimetada monitoride olulisemaid parameetreid
+* Selgitada erinevate ekraanitehnoloogiate erinevust
+* Selgitada LCD-monitoride tööpõhimõtet
+* Nimetada printerite olulisemaid parameetreid
+* Selgitada erinevate prinditehnoloogiate erinevust
+* Selgitada printerite tööpõhimõtet
+* Selgitada skännerite tööpõhimõtet
+* Nimetada skännerite olulisemaid parameetreid
