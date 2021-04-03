@@ -10,7 +10,7 @@ Repositoorium sisaldab õppevara (õpiobjektid, pildid, esitlused, töölehed jn
 
 Iga õpiobjekt on eraldiseisev üksus, mis sisaldab teema kohta informatsiooni ja harjutust või harjutusi.
 
-Kõik repositooriumis olev info on vabalt kasutatav ja soovitused muudatuste suhtes on teretulnud.
+Kõik repositooriumis olev info on vabalt kasutatav ja soovitused muudatuste ja täienduste suhtes on teretulnud.
 
 Parimat!
 
