@@ -22,7 +22,7 @@ Kursus on üles ehitatud nii, et koosneb kuuest loengust, millest viies loengus 
 
 Iga loengu lõpus täidavad õpilased tagasisideküsitluse loengu kohta - mis neid kõige rohkem kõnetas ja mis jäi loengus arusaamatuks. Tagasiside alusel saab järgmise loengu alguses segaseks jäänud teemad/punktid üle selgitada. Samuti toimub iga loengu alguses lühike enesekontrolli test eelmiste loengute teemade kohta.
 
-Kodutöödena uurivad õpilased rühmatööna loengud räägitud teemade kohta lisa, loovad selle kohta kokkuvõtte wiki lehe või blogipostitusena ja teevad lühikese esitluse järgmise loengu alguses.
+Kodutöödena uurivad õpilased rühmatööna loengus räägitud teemade kohta lisa, täiendavad (nt ajalugu, huvitavad faktid, erinevad lood jne) või kaasajastavad õpiobjekte, esitavad oma panuse kohta lühikese aruande ja teevad järgmises loengus oma töö kohta lühikese esitluse.
 
 ## Hindamismudel
 
