@@ -5,6 +5,9 @@ Arvutite riistvara ja operatsioonisüsteemide alused
 Repositoorium on loodud Tallinna Ülikooli Informaatikaõpetaja õppekava magistritöö "Riistvara ja operatsioonisüsteemide õppevara loomine Haapsalu Kolledži kontekstis" raames.
 
 Repositoorium sisaldab õppevara (õpiobjektid, pildid, esitlused, töölehed jne), mis on mõeldud Riistvara ja operatsioonisüsteemide alused aine õpetamise toetamiseks.
+Loengute kaustas on slaidiesitlused ja viited õpistsenaariumitele Leplanner.ee keskkonnas
+Teemade kaustas on õpiobjektide algfailid koos piltidega ja SCORM paketid õpihalduskeskkonda importimiseks
+Töölehtede kaustas on H5P formaadis töölehed ja viited samadele töölehtedele sisuloome.e-koolikott.ee keskkonnas
 
 Õpiobjektid on loodud eXeLearning (https://exelearning.net/en/) tarkvaraga ja repositooriumis on olemas nii eXeLearning failid, kui ka SCORM paketid. SCORM pakette saab lihtsalt importida näiteks Moodlesse.
 
@@ -17,8 +20,8 @@ Parimat!
 Martti Raavel
 
 ## Kursuse ülesehitus
-
-Kursus on üles ehitatud nii, et koosneb kuuest loengust, millest viies loengus toimub õppetöö ja kuuendas eksam. Iga loengu pikkus on kokku 180 minutit + poole peal 15 minutit pausi. Loengutes võetakse ükshaaval läbi loengu teemad ja enamuse teemade kohta toimub ka 'käed küljes' praktikum, mille käigus saavad õpilased tutvuda arvutite riistvara komponentidega, vaadata, mis on nende komponentide sees ja vahetada omavahel kogemusi. Praktikumide käigus täidavad õpilased erinevate arvutite komponentide kohta töölehti ja jäädvustavad komponentide lammutamise protsessi. Praktikumide eesmärk on kinnistada loengus saadud teadmisi läbi praktilise kogemuse. Olulise osa loengutest ja praktikumidest moodustavad õpilaste ja õpetaja kogemuste vahetamine ja arutelud.
+Kursuse eesmärk ei ole koolitada välja arvutispetsialisti, kes tunneb detailidena arvutite siseelu, vaid pigem on eesmärgiks anda õpilasetele üldised teadmised arvutite ehitusest, arvuti komponentidest ja operatsioonisüsteemidest. Samuti ei ole materjalid esialgu mõeldud 100% iseseisvalt teadmiste omandamiseks, vaid on mõeldud toetavateks materjalideks loengus õpitule ja räägitule.
+Kursus on üles ehitatud nii, et koosneb kuuest loengust, millest viies loengus toimub õppetöö ja kuuendas eksam. Iga loengu pikkus on kokku 180 minutit + 15 minutit pausi. Loengutes võetakse ükshaaval läbi loengu teemad ja enamuse teemade kohta toimub ka 'käed küljes' praktikum, mille käigus saavad õpilased tutvuda arvutite riistvara komponentidega, vaadata, mis on nende komponentide sees ja vahetada omavahel kogemusi. Praktikumide käigus täidavad õpilased erinevate arvutite komponentide kohta töölehti ja jäädvustavad komponentide lammutamise protsessi. Praktikumide eesmärk on kinnistada loengus saadud teadmisi läbi praktilise kogemuse. Olulise osa loengutest ja praktikumidest moodustavad õpilaste ja õpetaja kogemuste vahetamine ja arutelud.
 
 Iga loengu lõpus täidavad õpilased tagasisideküsitluse loengu kohta - mis neid kõige rohkem kõnetas ja mis jäi loengus arusaamatuks. Tagasiside alusel saab järgmise loengu alguses segaseks jäänud teemad/punktid üle selgitada. Samuti toimub iga loengu alguses lühike enesekontrolli test eelmiste loengute teemade kohta.
 
