@@ -9,7 +9,7 @@ Loengute kaustas on slaidiesitlused ja viited õpistsenaariumitele Leplanner.ee 
 Teemade kaustas on õpiobjektide algfailid koos piltidega ja SCORM paketid õpihalduskeskkonda importimiseks
 Töölehtede kaustas on H5P formaadis töölehed ja viited samadele töölehtedele sisuloome.e-koolikott.ee keskkonnas
 
-Õpiobjektid on loodud eXeLearning (https://exelearning.net/en/) tarkvaraga ja repositooriumis on olemas nii eXeLearning failid, kui ka SCORM paketid. SCORM pakette saab lihtsalt importida näiteks Moodlesse.
+Õpiobjektid on loodud eXeLearning (https://exelearning.net/en/) tarkvaraga ja repositooriumis on olemas nii eXeLearning failid, SCORM paketid kui ka pdf failid. SCORM pakette saab lihtsalt importida õpihaldussüsteemi, nagu näiteks Moodlesse.
 
 Iga õpiobjekt on eraldiseisev üksus, mis sisaldab teema kohta informatsiooni ja harjutust või harjutusi.
 
@@ -44,7 +44,7 @@ Kursuse hinne moodustub järgmiselt:
 ## Loengute teemade jaotus
 
 ### Esimese loengu teemad:
-[Esimese loengu õpistsenaarium]: https://leplanner.ee/en/scenario/2121
+[Esimese loengu õpistsenaarium](https://leplanner.ee/en/scenario/2121)
 * Tutvumine - kes oled ja kui palju Sul on arvutite riistvaraga kogemusi
 * Test eelteadmiste välja selgitamiseks
 * Arvusüsteemid
