@@ -70,6 +70,7 @@ Peale loengut oskab õpilane:
 * Tunda arvutikomponentide hulgast ära protsessori, mälu ja emaplaadi
 
 ### Teise loengu teemad:
+[Teise loengu õpistsenaarium](https://leplanner.ee/en/scenario/2127)
 * Koduste tööde esitlused
 * Test eelmise loengu teemade kohta
 * Andmekandjad
@@ -92,6 +93,7 @@ Peale loengut oskab õpilane:
 * Tunda ära arvutikomponentide hulgast kõvaketta, välkmäluketta ja toiteploki
 
 ### Kolmanda loengu teemad:
+[Kolmanda loengu õpistsenaarium](https://leplanner.ee/en/scenario/2135)
 * Koduste tööde esitlused
 * Test eelmiste loengute teemade kohta
 * Graafikakaardid
@@ -113,6 +115,7 @@ Peale loengut oskab õpilane:
 * Panna töötavatest komponentidest kokku töötava arvuti
 
 ### Neljanda loengu teemad:
+[Neljanda loengu õpistsenaarium](https://leplanner.ee/en/scenario/2360)
 * Koduste tööde esitlused
 * Test eelmiste loengute teemade kohta
 * Lisaseadmed
@@ -133,12 +136,13 @@ Peale loengut oskab õpilane:
 * Nimetada skännerite olulisemaid parameetreid
 
 ### Viienda loengu teemad:
+[Viienda loengu õpistsenaarium](https://leplanner.ee/en/scenario/2361)
 * Koduste tööde esitlused
 * Test eelmiste loengute teemade kohta
 * Operatsioonisüsteemid
+  * Praktikum - erinevate operatsioonisüsttemide paigaldus arvutisse või virtuaalmasinasse
 * Virtuaalmasinad
 * Hüperviisorid
-  * Praktikum - erinevate operatsioonisüsttemide paigaldus arvutisse või virtuaalmasinasse
 
 #### Viienda loengu õpiväljundid
 Peale loengut oskab õpilane:
