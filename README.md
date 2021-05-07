@@ -24,9 +24,9 @@ Kursuse eesmärk ei ole koolitada välja arvutispetsialisti, kes tunneb detailid
 
 Õppematerjalide loomisel on lähtutud kursuse ainekaardil välja toodud eesmärkidest ja õpiväljunditest.
 
-Eesmärk: Kujundada teadmised arvuti ülesehitusest, komponentidest ning riistvara toodetest. Anda ülevaade operatsioonisüsteemide ülesehitusest ja tööpõhimõtetest.
+**Eesmärk:** Kujundada teadmised arvuti ülesehitusest, komponentidest ning riistvara toodetest. Anda ülevaade operatsioonisüsteemide ülesehitusest ja tööpõhimõtetest.
 
-Õpiväljundid: Üliõpilasel on teadmised arvuti riistvaralistest komponentidest, nende tööpõhimõtetest ja omavahelisest sobivusest. Üliõpilane tunneb operatsioonisüsteemide olemust ja teab nende toimimispõhimõtteid.
+**Õpiväljundid**: Üliõpilasel on teadmised arvuti riistvaralistest komponentidest, nende tööpõhimõtetest ja omavahelisest sobivusest. Üliõpilane tunneb operatsioonisüsteemide olemust ja teab nende toimimispõhimõtteid.
 
 Kursus on üles ehitatud nii, et koosneb kuuest loengust, millest viies loengus toimub õppetöö ja kuuendas eksam. Iga loengu pikkus on kokku 180 minutit + 15 minutit pausi. Loengutes võetakse ükshaaval läbi loengu teemad ja enamuse teemade kohta toimub ka 'käed küljes' praktikum, mille käigus saavad õpilased tutvuda arvutite riistvara komponentidega, vaadata, mis on nende komponentide sees ja vahetada omavahel kogemusi. Alates teisest loengust toimub iga loengu alguses lühike test eelmistes loengutes õpitud teemade kohta (meenutamine). Praktikumide käigus täidavad õpilased erinevate arvutite komponentide kohta töölehti ja jäädvustavad komponentide lammutamise protsessi. Praktikumide eesmärk on kinnistada loengus saadud teadmisi läbi praktilise kogemuse. Olulise osa loengutest ja praktikumidest moodustavad õpilaste ja õpetaja kogemuste vahetamine ja arutelud.
 
