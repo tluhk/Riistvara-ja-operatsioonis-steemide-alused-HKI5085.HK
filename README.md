@@ -35,7 +35,7 @@ Iga loengu lõpus täidavad õpilased tagasisideküsitluse loengu kohta - mis ne
 Kodutöödena uurivad õpilased rühmatööna loengus räägitud teemade kohta lisa, täiendavad (nt ajalugu, huvitavad faktid, erinevad lood jne) või kaasajastavad õpiobjekte, esitavad oma panuse kohta lühikese aruande ja teevad järgmises loengus oma töö kohta lühikese esitluse.
 
 ## Hindamismudel
-Hinne moodustub 25% kodustest töödest (iga kodune töö annab 5% hindest) ja 75% kirjalikust eksamist.
+Hinne moodustub 50% kodustest töödest (iga kodune töö annab 10% hindest) ja 75% kirjalikust eksamist.
 
 Eksam on välja töötatud eelnevalt paika pandud õpiväljundite alusel. Iga loengus õpitud teema kohta on koostatud küsimused avatud vastustega või valikvastustega. Peale eksami tulemuste selgumist saab iga üliõpilane individuaalse tagasiside oma eksami tulemuste kohta.
 
